@@ -8,3 +8,30 @@ Why the focus on projects? In part, because this helps to instill a sense of pat
 
 How did we choose the projects? They should be relatively small and self-contained, and with the exception of the "Hello, World!" projects, they should also be interesting, perhaps even useful. Collectively, they should cover most aspects of programming and should be complex enough that languages can showcase their salient features, as well as their relative shortcomings.
  
+<details>
+ <summary>Templates</summary>
+  
+  <details>
+   <summary>[Copier](https://copier.readthedocs.io/)</summary>
+   * [c]()
+   * [c++]()
+   * [python](https://github.com/RosettaProjects/copier-template-python)
+   * [lua]()
+   * [go]()
+   * [rust]()
+   * [javascript]()
+   * [typescript]()
+  </details>
+
+  <details>
+   <summary>[Cookiecutter](https://cookiecutter.readthedocs.io/)</summary>
+   * [c]()
+   * [c++]()
+   * [python](https://github.com/RosettaProjects/copier-template-python)
+   * [lua]()
+   * [go]()
+   * [rust]()
+   * [javascript]()
+   * [typescript]()
+  </details>
+</details>
