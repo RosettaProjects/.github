@@ -6,5 +6,5 @@ Additionally, this project also provides templates for use with the excellent [C
 
 Why the focus on projects? In part, because this helps to instill a sense of patterns and best practices for a given language (and, to an extent, in general). Another reason is that learning any language necessitates learning boilerplate, like it or not. Finally, most real-world software development involves multiple files, and a developer needs to understand not just the syntax of the language, but also how the various files interact and what is typically located where.
 
-How did we choose the projects? They should be relatively small and self-contained, and with the exception of the Ḧello, World!" projects, they should also be interesting, perhaps even useful. Collectively, they should cover most aspects of programming and should be complex enough that languages can showcase their salient features, as well as their relative shortcomings.
+How did we choose the projects? They should be relatively small and self-contained, and with the exception of the "Hello, World!" projects, they should also be interesting, perhaps even useful. Collectively, they should cover most aspects of programming and should be complex enough that languages can showcase their salient features, as well as their relative shortcomings.
  
