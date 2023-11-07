@@ -119,7 +119,21 @@ How did we choose the projects? They should be relatively small and self-contain
    </details>
 
    <details>
-    <summary>5. Implementation of Gale-Church text alignment algorith</summary>
+    <summary>5. nbcat: simple 'cat' command adapted to Jupyter notebooks</summary>
+   
+   * [c]()
+   * [c++]()
+   * [python]()
+   * [lua]()
+   * [go]()
+   * [rust]()
+   * [javascript]()
+   * [typescript]()
+ 
+   </details>
+
+   <details>
+    <summary>6. Implementation of Gale-Church text alignment algorithm</summary>
    
    * [c]()
    * [c++]()
