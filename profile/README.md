@@ -67,6 +67,7 @@ How did we choose the projects? They should be relatively small and self-contain
 
    <details>
     <summary>1. Hello, World!</summary>
+    
     * [c]()
     * [c++]()
     * [python]()
