@@ -72,6 +72,7 @@ How did we choose the projects? They should be relatively small and self-contain
     * [python]()
     * [lua]()
     * [go]()
+    * [haskell]()
     * [rust]()
     * [javascript]()
     * [typescript]()
@@ -85,6 +86,7 @@ How did we choose the projects? They should be relatively small and self-contain
     * [python]()
     * [lua]()
     * [go]()
+    * [haskell]()
     * [rust]()
     * [javascript]()
     * [typescript]()
@@ -98,6 +100,7 @@ How did we choose the projects? They should be relatively small and self-contain
     * [python]()
     * [lua]()
     * [go]()
+    * [haskell]()
     * [rust]()
     * [javascript]()
     * [typescript]()
@@ -112,6 +115,7 @@ How did we choose the projects? They should be relatively small and self-contain
    * [python]()
    * [lua]()
    * [go]()
+   * [haskell]()
    * [rust]()
    * [javascript]()
    * [typescript]()
@@ -126,6 +130,7 @@ How did we choose the projects? They should be relatively small and self-contain
    * [python]()
    * [lua]()
    * [go]()
+   * [haskell]()
    * [rust]()
    * [javascript]()
    * [typescript]()
@@ -140,6 +145,37 @@ How did we choose the projects? They should be relatively small and self-contain
    * [python]()
    * [lua]()
    * [go]()
+   * [haskell]()
+   * [rust]()
+   * [javascript]()
+   * [typescript]()
+ 
+   </details>
+
+   <details>
+    <summary>7. colorcritic: CLI for creation and validation of color configs</summary>
+   
+   * [c]()
+   * [c++]()
+   * [python]()
+   * [lua]()
+   * [go]()
+   * [haskell]()
+   * [rust]()
+   * [javascript]()
+   * [typescript]()
+ 
+   </details>
+
+   <details>
+    <summary>7. keycritic: CLI for creation and validation of keybindings configs</summary>
+   
+   * [c]()
+   * [c++]()
+   * [python]()
+   * [lua]()
+   * [go]()
+   * [haskell]()
    * [rust]()
    * [javascript]()
    * [typescript]()
