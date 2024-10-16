@@ -63,7 +63,7 @@ How did we choose the projects? They should be relatively small and self-contain
   Self-contained projects in various languages, all conforming to the same specification. Designed to make comparison between languages easier and to serve as a kind of 'Rosetta Stone' for programming languages.
 
   <details>
-   <summary>by project</summary>
+   <summary>by project\n</summary>
 
    <details>
     <summary>1. Hello, World!</summary>
