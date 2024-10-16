@@ -63,7 +63,7 @@ How did we choose the projects? They should be relatively small and self-contain
   Self-contained projects in various languages, all conforming to the same specification. Designed to make comparison between languages easier and to serve as a kind of 'Rosetta Stone' for programming languages.
 
   <details>
-   <summary>by language</summary>
+   <summary>by project</summary>
 
    <details>
     <summary>1. Hello, World!</summary>
@@ -168,7 +168,7 @@ How did we choose the projects? They should be relatively small and self-contain
    </details>
 
    <details>
-    <summary>7. keycritic: CLI for creation and validation of keybindings configs</summary>
+    <summary>8. keycritic: CLI for creation and validation of keybindings configs</summary>
    
    * [c]()
    * [c++]()
